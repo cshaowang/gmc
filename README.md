@@ -9,5 +9,5 @@ The code here assists reviewers to check our work. Please do not use them elsewh
 
 Any questions, please do not hesitate to contact Hao Wang (Email: cshaowang@gmail.com).
 
-Best,
+Sincerely,
 Hao
