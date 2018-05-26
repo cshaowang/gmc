@@ -1,7 +1,7 @@
 %
 %  min  1/2 sum_v|| s - qv||^2
 %  s.t. s>=0, 1's=1
-function [x, ft] = SloutionForP19(q0, m)
+function [x, ft] = SloutionToP19(q0, m)
 
 if nargin < 2
     m = 1;
