@@ -10,7 +10,7 @@ if(~exist('Results','file'))
     mkdir('Results');
     addpath(genpath('Results/'));
 end
-dataname = {'100leaves','3sources','BBC','BBCSport','HW','HW2sources','NGs','WebKB'};
+dataname = {'100leaves','3sources','BBC','BBCSport','HW','HW2sources','NGs','WebKB','Hdigit','Mfeat'};
 runtimes = 1; % run-times on each dataset, default: 1
 numdata = length(dataname);
 
