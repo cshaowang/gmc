@@ -1,3 +1,3 @@
 # GMC: Graph-based Multi-view Clustering
 
-This repo hosts code for paper "GMC: Graph-based Multi-view Clustering", IEEE TKDE, 2019.
+This repository hosts the code for paper "GMC: Graph-based Multi-view Clustering", IEEE TKDE, 2019.
